@@ -1,0 +1,24 @@
+<<<<<<< HEAD
+<html>
+    <body bgcolor="green">
+             <hr>
+        <p align=center>
+        Hola Mundo!!!
+        <hr>
+         <h1> Cuidemos la Naturaleza </h1>
+    <h1 align=center>
+    <img src="descarga.jpg">
+</body>
+=======
+<html>
+    <body bgcolor="green">
+             <hr>
+        <p align=center>
+        Hola Mundo!!!!!!
+        <hr>
+         <h1> Cuidemos la Naturaleza </h1>
+    <h1 align=center>
+    <img src="descarga.jpg">
+</body>
+>>>>>>> eee0172c9849ea2d289b3723389bbfe8edb54665
+</html>
